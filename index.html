@@ -40,9 +40,15 @@
             <li>Numbers divisible by 3 and 5 become "pingpong"</li>
           </ol>
         </p>
-        <form>
-          <strong>Enter your number here</strong><input type="text" name="" value="">
-          <button type="submit" class="btn btn-success">Pingpong</button>
+        <form class="pingpong" action="index.html" method="post">
+          <div class="form-group">
+            <label for="pingpong">Enter a number</label>
+            <input type="integer" name="" value="" id="a">
+            <button id="btn" type="submit" class="btn btn-success">Pingpong</button>
+            <ul id="result">
+
+            </ul>
+          </div>
         </form>
       </div>
     </div>
