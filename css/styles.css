@@ -15,10 +15,18 @@ h1 {
 
 .col-md-4 {
   float: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1000px;
+  background-color: skyblue;
 }
 
 .col-md-8 {
   float: right;
+  background-color: lightgreen;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1000px;
 }
 
 .text {
@@ -26,10 +34,11 @@ h1 {
 }
 
 h2 {
-  color: orange;
+  color: navy;
 }
 
 body {
-  background-color: lightgrey;
+  background-color: beige;
   background-size: cover;
+  height: 1000px;
 }
