@@ -12,3 +12,21 @@ h1 {
 #result {
   display: none;
 }
+
+.col-md-4 {
+  float: left;
+}
+
+.col-md-8 {
+  float: right;
+  background-image: url("../images/sponge.png");
+  background-repeat: no-repeat;
+}
+
+.text {
+  color: navy;
+}
+
+h2 {
+  color: orange;
+}
