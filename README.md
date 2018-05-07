@@ -1,34 +1,36 @@
 
-<strong>PINGPONG</strong>
+<strong><h1>PINGPONG</h1></strong>
 
 The pingpong project is a project played with numbers,created on May (2018)
 
  By
- Anne Wariiyu Nduati
+ <strong><em>Anne Wariiyu Nduati</em></strong>
 
 
- <strong>Description</strong>
+ <strong><h2>Description</h2></strong>
 
 The pingpong project is a fun project than play around with numbers. It creates a fun environment that takes your mind away from the normal world. It's very enjoyable and fun.
 
- <strong>Setup/Installation Requirements</strong>
+ <strong><h2>Setup/Installation Requirements</h2></strong>
 
       First clone the repository to your terminal then copy the project to your commputer
 
       Open it with google chrome and enjoy the fun of pingpong.
 
-<strong> Known Bugs</strong>
+<strong> <h2>Known Bugs</h2></strong>
 
 The code might not accomodate large values of numbers. So check out the number you put in not to be a large number.
 
-<strong>Technologies Used</strong>
+<strong><h2>Technologies Used</h2></strong>
 
 <em>The technologies used are;</em>
-      Java script
-      HTML
-      CSS
-      Bootstrap
-      JQuery
+<ul>
+      <li>Java script</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Bootstrap</li>
+      <li>JQuery</li>
+      </ul>
 
  <strong>Support and contact details</strong>
 
