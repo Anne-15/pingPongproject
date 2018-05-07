@@ -13,20 +13,16 @@ h1 {
   display: none;
 }
 
-.col-md-4 {
+.bee {
   float: left;
   background-size: contain;
   background-repeat: no-repeat;
-  height: 1000px;
-  background-color: skyblue;
 }
 
-.col-md-8 {
+.hive {
   float: right;
-  background-color: lightgreen;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 1000px;
 }
 
 .text {
@@ -41,4 +37,18 @@ body {
   background-color: beige;
   background-size: cover;
   height: 1000px;
+}
+
+.clearfix {
+  &:before, &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+.element {
+  .clearfix();
 }
