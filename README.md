@@ -1,5 +1,5 @@
 
-PINGPONG
+<strong>PINGPONG</strong>
 
 The pingpong project is a project played with numbers,created on May (2018)
 
